@@ -1,0 +1,4 @@
+Execute the client with -s flag
+Provide servername as the last argument
+Run client with default username Kedar and password mishra
+To create new user create a new entry in passwords file and create the corresponding folder in /tmp/client with same username
